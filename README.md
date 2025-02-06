@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif?cid=790b7611ptqyldsjj2szmnbnuiz5kniu4vqujwkgmzo58wwn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"> Welcome to kfmaldon Github
-![Banner]()
+![Banner](Banner_github.png)
 ##### Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinmaldo2004/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012412419742)
@@ -24,6 +24,6 @@
 ## The best projects for me
 In this part I consider the important projects for me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=EncodingHuffman&theme=radical)](https://github.com/SirProg/EncodingHuffman)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=G06DataBaseBack&theme=radical)](https://github.com/SirProg/G06DataBaseBack)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=G06DataBase&theme=radical)](https://github.com/SirProg/G06DataBase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=EncodingHuffman&theme=radical)](https://github.com/SirProg/EncodingHuffman) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=G06DataBaseBack&theme=radical)](https://github.com/SirProg/G06DataBaseBack) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=G06DataBase&theme=radical)](https://github.com/SirProg/G06DataBase)
 
-##  My CV
+##  My CV and portfolio
