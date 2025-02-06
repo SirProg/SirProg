@@ -19,10 +19,11 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br/>
 ## Stats 📈
-![KevinM GitHub stats](https://github-readme-stats.vercel.app/api?username=SirProg&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirProg&layout=compact&theme=radical)
+![KevinM GitHub stats](https://github-readme-stats.vercel.app/api?username=SirProg&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirProg&layout=compact&theme=radical)
 
 ## The best projects for me
 In this part I consider the important projects for me
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=EncodingHuffman&theme=radical)](https://github.com/SirProg/EncodingHuffman)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=G06DataBaseBack&theme=radical)](https://github.com/SirProg/G06DataBaseBack)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=G06DataBase&theme=radical)](https://github.com/SirProg/G06DataBase)
 
 ##  My CV
