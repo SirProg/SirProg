@@ -24,6 +24,6 @@
 ## The best projects for me
 In this part I consider the important projects for me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=EncodingHuffman&theme=radical)](https://github.com/SirProg/EncodingHuffman) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=G06DataBaseBack&theme=radical)](https://github.com/SirProg/G06DataBaseBack) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=G06DataBase&theme=radical)](https://github.com/SirProg/G06DataBase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=EncodingHuffman&theme=radical)](https://github.com/SirProg/EncodingHuffman) 
 
 ##  My CV and portfolio
