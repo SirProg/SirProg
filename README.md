@@ -13,17 +13,22 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black&color=6894af)
 <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br/>
+
 ## Stats 📈
-![KevinM GitHub stats](https://github-readme-stats.vercel.app/api?username=SirProg&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirProg&layout=compact&theme=radical)
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirProg&theme=tokyonight) 
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SirProg&theme=tokyonight)
 
 ## The best projects for me
 In this part I consider the important projects for me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirProg&repo=EncodingHuffman&theme=radical)](https://github.com/SirProg/EncodingHuffman) 
 
 ##  My CV and portfolio
